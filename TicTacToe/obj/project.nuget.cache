@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yPajt2na2N1RBsmLEjRZsXGsy6BHhSgIHNH6ZSBSWU+sy9u3eaD+UVr7BDUcbfVg90GApkm2WCnVt6xtrOazA==",
+  "success": true,
+  "projectFilePath": "/Volumes/2/Projects/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/borisgarin/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
